@@ -1,0 +1,28 @@
+body {
+    margin: 10px auto;
+    max-width: 240px;
+    font-family: Helvetica;
+}
+
+#container {
+  position: relative;
+  margin: 20px;
+  width: 200px;
+  height: 200px; 
+  display: inline-block;
+  text-align: center;
+}
+
+#progress {
+  position: absolute;
+  text-align: center;
+  width: 200px;
+  font-size: 90px;
+  margin-top: 50px;
+  font-weight: bold;
+  color: #3a3737;
+  }
+
+#inputScore {
+  text-align: center;
+  }
